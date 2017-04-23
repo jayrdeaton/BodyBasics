@@ -1,0 +1,11 @@
+.leftbar {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 20%;
+  background: #5E0000;
+  padding-top: 150px;
+  color: white;
+  z-index: 1;
+}
